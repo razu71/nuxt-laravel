@@ -7,8 +7,11 @@ Authentication with nuxt & laravel
 
 ## Build Setup
 $ composer install
+
 $ php artisan key:generate
+
 $ setup database
+
 $ php artisan serve
 
 
