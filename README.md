@@ -22,6 +22,8 @@ $ php artisan serve
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+check out [Laravel.com docs](https://laravel.com).
+
 # frontend
 
 ## Build Setup
